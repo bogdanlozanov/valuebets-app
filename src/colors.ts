@@ -1,4 +1,4 @@
-export default {
+const colors = {
     // Primary Color: A vibrant red for attention-grabbing elements like call-to-action buttons.
     Primary: "#FF5733",
     // Secondary Color: A softer orange for backgrounds or secondary buttons.
@@ -15,3 +15,5 @@ export default {
     black: "#000",
     white: "#FFF",
 }
+
+export default colors

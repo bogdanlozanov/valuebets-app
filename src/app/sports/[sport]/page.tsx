@@ -29,7 +29,7 @@ const SportPage: React.FC = () => {
     if (sport) {
       fetchEventsBySport(sport).then(setEvents);
     }
-  }, []);
+  }, [sport]);
 
 
   return (
