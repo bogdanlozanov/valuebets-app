@@ -1,0 +1,1142 @@
+{
+  "arbitrage_1": {
+    "id": 7890,
+    "event": {
+      "id": 12345,
+      "sport": "Soccer",
+      "league": "Premier League",
+      "teams": {
+        "home": "Team A",
+        "away": "Team B"
+      },
+      "start_time": "2024-07-15T17:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.75,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.20,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.3,
+    "updated_at": "2024-07-06T12:00:00Z"
+  },
+  "arbitrage_2": {
+    "id": 7891,
+    "event": {
+      "id": 12346,
+      "sport": "Basketball",
+      "league": "NBA",
+      "teams": {
+        "home": "Team C",
+        "away": "Team D"
+      },
+      "start_time": "2024-07-16T19:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Total Points",
+        "outcomes": [
+          {
+            "outcome": "over_200",
+            "odds": 1.85,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "under_200",
+            "odds": 1.95,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 4.5,
+    "updated_at": "2024-07-06T13:00:00Z"
+  },
+  "arbitrage_3": {
+    "id": 7892,
+    "event": {
+      "id": 12347,
+      "sport": "Tennis",
+      "league": "ATP",
+      "teams": {
+        "home": "Player A",
+        "away": "Player B"
+      },
+      "start_time": "2024-07-17T15:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Set Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.50,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 2.50,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 6.1,
+    "updated_at": "2024-07-06T14:00:00Z"
+  },
+  "arbitrage_4": {
+    "id": 7893,
+    "event": {
+      "id": 12348,
+      "sport": "Volleyball",
+      "league": "Superliga",
+      "teams": {
+        "home": "Team E",
+        "away": "Team F"
+      },
+      "start_time": "2024-07-18T20:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.80,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.00,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.2,
+    "updated_at": "2024-07-06T15:00:00Z"
+  },
+  "arbitrage_5": {
+    "id": 7894,
+    "event": {
+      "id": 12349,
+      "sport": "Formula 1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver A",
+        "away": "Driver B"
+      },
+      "start_time": "2024-07-19T21:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Race Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 2.00,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.00,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 4.7,
+    "updated_at": "2024-07-06T16:00:00Z"
+  },
+  "arbitrage_6": {
+    "id": 7895,
+    "event": {
+      "id": 12350,
+      "sport": "Soccer",
+      "league": "La Liga",
+      "teams": {
+        "home": "Team G",
+        "away": "Team H"
+      },
+      "start_time": "2024-07-20T22:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.70,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.50,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.5,
+    "updated_at": "2024-07-06T17:00:00Z"
+  },
+  "arbitrage_7": {
+    "id": 7896,
+    "event": {
+      "id": 12351,
+      "sport": "Basketball",
+      "league": "EuroLeague",
+      "teams": {
+        "home": "Team I",
+        "away": "Team J"
+      },
+      "start_time": "2024-07-21T19:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Total Points",
+        "outcomes": [
+          {
+            "outcome": "over_160",
+            "odds": 1.85,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "under_160",
+            "odds": 3.75,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 4.9,
+    "updated_at": "2024-07-06T18:00:00Z"
+  },
+  "arbitrage_8": {
+    "id": 7897,
+    "event": {
+      "id": 12352,
+      "sport": "Tennis",
+      "league": "WTA",
+      "teams": {
+        "home": "Player C",
+        "away": "Player D"
+      },
+      "start_time": "2024-07-22T23:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Set Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.60,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.00,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 6.3,
+    "updated_at": "2024-07-06T19:00:00Z"
+  },
+  "arbitrage_9": {
+    "id": 7898,
+    "event": {
+      "id": 12353,
+      "sport": "Volleyball",
+      "league": "Champions League",
+      "teams": {
+        "home": "Team K",
+        "away": "Team L"
+      },
+      "start_time": "2024-07-23T20:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.90,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.80,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.1,
+    "updated_at": "2024-07-06T20:00:00Z"
+  },
+  "arbitrage_10": {
+    "id": 7899,
+    "event": {
+      "id": 12354,
+      "sport": "Formula 1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver C",
+        "away": "Driver D"
+      },
+      "start_time": "2024-07-24T21:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Race Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.75,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.10,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.8,
+    "updated_at": "2024-07-06T21:00:00Z"
+  },
+  "arbitrage_11": {
+    "id": 7900,
+    "event": {
+      "id": 12355,
+      "sport": "Soccer",
+      "league": "Bundesliga",
+      "teams": {
+        "home": "Team M",
+        "away": "Team N"
+      },
+      "start_time": "2024-07-25T22:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.85,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.90,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.0,
+    "updated_at": "2024-07-06T22:00:00Z"
+  },
+  "arbitrage_12": {
+    "id": 7901,
+    "event": {
+      "id": 12356,
+      "sport": "Basketball",
+      "league": "NBA",
+      "teams": {
+        "home": "Team O",
+        "away": "Team P"
+      },
+      "start_time": "2024-07-26T20:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Total Points",
+        "outcomes": [
+          {
+            "outcome": "over_210",
+            "odds": 1.80,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "under_210",
+            "odds": 4.00,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 4.9,
+    "updated_at": "2024-07-06T23:00:00Z"
+  },
+  "arbitrage_13": {
+    "id": 7902,
+    "event": {
+      "id": 12357,
+      "sport": "Tennis",
+      "league": "ATP",
+      "teams": {
+        "home": "Player E",
+        "away": "Player F"
+      },
+      "start_time": "2024-07-27T21:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Set Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.90,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.60,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 6.1,
+    "updated_at": "2024-07-07T00:00:00Z"
+  },
+  "arbitrage_14": {
+    "id": 7903,
+    "event": {
+      "id": 12358,
+      "sport": "Volleyball",
+      "league": "Superliga",
+      "teams": {
+        "home": "Team Q",
+        "away": "Team R"
+      },
+      "start_time": "2024-07-28T22:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.65,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.20,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.7,
+    "updated_at": "2024-07-07T01:00:00Z"
+  },
+  "arbitrage_15": {
+    "id": 7904,
+    "event": {
+      "id": 12359,
+      "sport": "Formula 1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver E",
+        "away": "Driver F"
+      },
+      "start_time": "2024-07-29T23:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Race Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.75,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.90,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 6.0,
+    "updated_at": "2024-07-07T02:00:00Z"
+  },
+  "arbitrage_16": {
+    "id": 7905,
+    "event": {
+      "id": 12360,
+      "sport": "Soccer",
+      "league": "Serie A",
+      "teams": {
+        "home": "Team S",
+        "away": "Team T"
+      },
+      "start_time": "2024-07-30T23:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.85,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.90,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.4,
+    "updated_at": "2024-07-07T03:00:00Z"
+  },
+  "arbitrage_17": {
+    "id": 7906,
+    "event": {
+      "id": 12361,
+      "sport": "Basketball",
+      "league": "EuroLeague",
+      "teams": {
+        "home": "Team U",
+        "away": "Team V"
+      },
+      "start_time": "2024-07-31T19:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Total Points",
+        "outcomes": [
+          {
+            "outcome": "over_160",
+            "odds": 1.65,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "under_160",
+            "odds": 4.00,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.6,
+    "updated_at": "2024-07-07T04:00:00Z"
+  },
+  "arbitrage_18": {
+    "id": 7907,
+    "event": {
+      "id": 12362,
+      "sport": "Tennis",
+      "league": "WTA",
+      "teams": {
+        "home": "Player G",
+        "away": "Player H"
+      },
+      "start_time": "2024-08-01T15:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Set Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.70,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.60,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 6.2,
+    "updated_at": "2024-07-07T05:00:00Z"
+  },
+  "arbitrage_19": {
+    "id": 7908,
+    "event": {
+      "id": 12363,
+      "sport": "Volleyball",
+      "league": "Champions League",
+      "teams": {
+        "home": "Team W",
+        "away": "Team X"
+      },
+      "start_time": "2024-08-02T20:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.75,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.10,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.5,
+    "updated_at": "2024-07-07T06:00:00Z"
+  },
+  "arbitrage_20": {
+    "id": 7909,
+    "event": {
+      "id": 12364,
+      "sport": "Formula 1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver G",
+        "away": "Driver H"
+      },
+      "start_time": "2024-08-03T21:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Race Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.90,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.80,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 6.0,
+    "updated_at": "2024-07-07T07:00:00Z"
+  },
+  "arbitrage_21": {
+    "id": 7910,
+    "event": {
+      "id": 12365,
+      "sport": "Soccer",
+      "league": "Premier League",
+      "teams": {
+        "home": "Team Y",
+        "away": "Team Z"
+      },
+      "start_time": "2024-08-04T22:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.70,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.10,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.1,
+    "updated_at": "2024-07-07T08:00:00Z"
+  },
+  "arbitrage_22": {
+    "id": 7911,
+    "event": {
+      "id": 12366,
+      "sport": "Basketball",
+      "league": "NBA",
+      "teams": {
+        "home": "Team AA",
+        "away": "Team BB"
+      },
+      "start_time": "2024-08-05T20:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Total Points",
+        "outcomes": [
+          {
+            "outcome": "over_210",
+            "odds": 1.85,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "under_210",
+            "odds": 4.00,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.0,
+    "updated_at": "2024-07-07T09:00:00Z"
+  },
+  "arbitrage_23": {
+    "id": 7912,
+    "event": {
+      "id": 12367,
+      "sport": "Tennis",
+      "league": "ATP",
+      "teams": {
+        "home": "Player I",
+        "away": "Player J"
+      },
+      "start_time": "2024-08-06T21:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Set Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.80,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.90,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.2,
+    "updated_at": "2024-07-07T10:00:00Z"
+  },
+  "arbitrage_24": {
+    "id": 7913,
+    "event": {
+      "id": 12368,
+      "sport": "Volleyball",
+      "league": "Superliga",
+      "teams": {
+        "home": "Team CC",
+        "away": "Team DD"
+      },
+      "start_time": "2024-08-07T22:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.75,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.90,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.3,
+    "updated_at": "2024-07-07T11:00:00Z"
+  },
+  "arbitrage_25": {
+    "id": 7914,
+    "event": {
+      "id": 12369,
+      "sport": "Formula 1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver I",
+        "away": "Driver J"
+      },
+      "start_time": "2024-08-08T23:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Race Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.85,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.00,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.7,
+    "updated_at": "2024-07-07T12:00:00Z"
+  },
+  "arbitrage_26": {
+    "id": 7915,
+    "event": {
+      "id": 12370,
+      "sport": "Soccer",
+      "league": "La Liga",
+      "teams": {
+        "home": "Team EE",
+        "away": "Team FF"
+      },
+      "start_time": "2024-08-09T17:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.75,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.20,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 6.0,
+    "updated_at": "2024-07-07T13:00:00Z"
+  },
+  "arbitrage_27": {
+    "id": 7916,
+    "event": {
+      "id": 12371,
+      "sport": "Basketball",
+      "league": "EuroLeague",
+      "teams": {
+        "home": "Team GG",
+        "away": "Team HH"
+      },
+      "start_time": "2024-08-10T19:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Total Points",
+        "outcomes": [
+          {
+            "outcome": "over_160",
+            "odds": 1.90,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "under_160",
+            "odds": 3.80,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.4,
+    "updated_at": "2024-07-07T14:00:00Z"
+  },
+  "arbitrage_28": {
+    "id": 7917,
+    "event": {
+      "id": 12372,
+      "sport": "Tennis",
+      "league": "WTA",
+      "teams": {
+        "home": "Player K",
+        "away": "Player L"
+      },
+      "start_time": "2024-08-11T15:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Set Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.85,
+            "bookmaker": {
+              "name": "Bet365",
+              "link": "https://www.bet365.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 3.90,
+            "bookmaker": {
+              "name": "William Hill",
+              "link": "https://www.williamhill.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.8,
+    "updated_at": "2024-07-07T15:00:00Z"
+  },
+  "arbitrage_29": {
+    "id": 7918,
+    "event": {
+      "id": 12373,
+      "sport": "Volleyball",
+      "league": "Champions League",
+      "teams": {
+        "home": "Team II",
+        "away": "Team JJ"
+      },
+      "start_time": "2024-08-12T20:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Match Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.70,
+            "bookmaker": {
+              "name": "Betfair",
+              "link": "https://www.betfair.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.10,
+            "bookmaker": {
+              "name": "Pinnacle",
+              "link": "https://www.pinnacle.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.5,
+    "updated_at": "2024-07-07T16:00:00Z"
+  },
+  "arbitrage_30": {
+    "id": 7919,
+    "event": {
+      "id": 12374,
+      "sport": "Formula 1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver K",
+        "away": "Driver L"
+      },
+      "start_time": "2024-08-13T21:00:00Z"
+    },
+    "markets": [
+      {
+        "market": "Race Winner",
+        "outcomes": [
+          {
+            "outcome": "home_win",
+            "odds": 1.75,
+            "bookmaker": {
+              "name": "Unibet",
+              "link": "https://www.unibet.com"
+            }
+          },
+          {
+            "outcome": "away_win",
+            "odds": 4.10,
+            "bookmaker": {
+              "name": "Betway",
+              "link": "https://www.betway.com"
+            }
+          }
+        ]
+      }
+    ],
+    "profit_percentage": 5.9,
+    "updated_at": "2024-07-07T17:00:00Z"
+  }
+}

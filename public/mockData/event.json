@@ -1,0 +1,572 @@
+{
+    "event_1": {
+      "id": 12345,
+      "sport": "Soccer",
+      "league": "Premier League",
+      "teams": {
+        "home": "Team A",
+        "away": "Team B"
+      },
+      "start_time": "2024-07-15T17:00:00Z",
+      "odds": {
+        "home_win": 1.75,
+        "draw": 3.40,
+        "away_win": 4.20
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_2": {
+      "id": 12346,
+      "sport": "Basketball",
+      "league": "NBA",
+      "teams": {
+        "home": "Team C",
+        "away": "Team D"
+      },
+      "start_time": "2024-07-16T19:00:00Z",
+      "odds": {
+        "home_win": 1.90,
+        "draw": 2.90,
+        "away_win": 3.80
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_3": {
+      "id": 12347,
+      "sport": "Tennis",
+      "league": "ATP",
+      "teams": {
+        "home": "Player A",
+        "away": "Player B"
+      },
+      "start_time": "2024-07-17T15:00:00Z",
+      "odds": {
+        "home_win": 1.50,
+        "draw": 4.00,
+        "away_win": 2.50
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    },
+    "event_4": {
+      "id": 12348,
+      "sport": "Volleyball",
+      "league": "Superliga",
+      "teams": {
+        "home": "Team E",
+        "away": "Team F"
+      },
+      "start_time": "2024-07-18T20:00:00Z",
+      "odds": {
+        "home_win": 1.80,
+        "draw": 3.60,
+        "away_win": 4.00
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_5": {
+      "id": 12349,
+      "sport": "Formula1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver A",
+        "away": "Driver B"
+      },
+      "start_time": "2024-07-19T21:00:00Z",
+      "odds": {
+        "home_win": 2.00,
+        "draw": 3.50,
+        "away_win": 3.00
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_6": {
+      "id": 12350,
+      "sport": "Soccer",
+      "league": "La Liga",
+      "teams": {
+        "home": "Team G",
+        "away": "Team H"
+      },
+      "start_time": "2024-07-20T22:00:00Z",
+      "odds": {
+        "home_win": 1.70,
+        "draw": 3.80,
+        "away_win": 3.50
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    },
+    "event_7": {
+      "id": 12351,
+      "sport": "Basketball",
+      "league": "EuroLeague",
+      "teams": {
+        "home": "Team I",
+        "away": "Team J"
+      },
+      "start_time": "2024-07-21T19:00:00Z",
+      "odds": {
+        "home_win": 1.85,
+        "draw": 3.65,
+        "away_win": 3.75
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_8": {
+      "id": 12352,
+      "sport": "Tennis",
+      "league": "WTA",
+      "teams": {
+        "home": "Player C",
+        "away": "Player D"
+      },
+      "start_time": "2024-07-22T23:00:00Z",
+      "odds": {
+        "home_win": 1.60,
+        "draw": 4.10,
+        "away_win": 4.00
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_9": {
+      "id": 12353,
+      "sport": "Volleyball",
+      "league": "Champions League",
+      "teams": {
+        "home": "Team K",
+        "away": "Team L"
+      },
+      "start_time": "2024-07-23T20:00:00Z",
+      "odds": {
+        "home_win": 1.90,
+        "draw": 3.50,
+        "away_win": 3.80
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    },
+    "event_10": {
+      "id": 12354,
+      "sport": "Formula1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver C",
+        "away": "Driver D"
+      },
+      "start_time": "2024-07-24T21:00:00Z",
+      "odds": {
+        "home_win": 1.75,
+        "draw": 3.60,
+        "away_win": 4.10
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_11": {
+      "id": 12355,
+      "sport": "Soccer",
+      "league": "Bundesliga",
+      "teams": {
+        "home": "Team M",
+        "away": "Team N"
+      },
+      "start_time": "2024-07-25T22:00:00Z",
+      "odds": {
+        "home_win": 1.85,
+        "draw": 3.40,
+        "away_win": 3.90
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_12": {
+      "id": 12356,
+      "sport": "Basketball",
+      "league": "NBA",
+      "teams": {
+        "home": "Team O",
+        "away": "Team P"
+      },
+      "start_time": "2024-07-26T20:00:00Z",
+      "odds": {
+        "home_win": 1.80,
+        "draw": 3.70,
+        "away_win": 4.00
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    },
+    "event_13": {
+      "id": 12357,
+      "sport": "Tennis",
+      "league": "ATP",
+      "teams": {
+        "home": "Player E",
+        "away": "Player F"
+      },
+      "start_time": "2024-07-27T21:00:00Z",
+      "odds": {
+        "home_win": 1.90,
+        "draw": 3.50,
+        "away_win": 3.60
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_14": {
+      "id": 12358,
+      "sport": "Volleyball",
+      "league": "Superliga",
+      "teams": {
+        "home": "Team Q",
+        "away": "Team R"
+      },
+      "start_time": "2024-07-28T22:00:00Z",
+      "odds": {
+        "home_win": 1.65,
+        "draw": 3.90,
+        "away_win": 4.20
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_15": {
+      "id": 12359,
+      "sport": "Formula1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver E",
+        "away": "Driver F"
+      },
+      "start_time": "2024-07-29T23:00:00Z",
+      "odds": {
+        "home_win": 1.75,
+        "draw": 3.80,
+        "away_win": 3.90
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    },
+    "event_16": {
+      "id": 12360,
+      "sport": "Soccer",
+      "league": "Serie A",
+      "teams": {
+        "home": "Team S",
+        "away": "Team T"
+      },
+      "start_time": "2024-07-30T23:00:00Z",
+      "odds": {
+        "home_win": 1.85,
+        "draw": 3.40,
+        "away_win": 3.90
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_17": {
+      "id": 12361,
+      "sport": "Basketball",
+      "league": "EuroLeague",
+      "teams": {
+        "home": "Team U",
+        "away": "Team V"
+      },
+      "start_time": "2024-07-31T19:00:00Z",
+      "odds": {
+        "home_win": 1.65,
+        "draw": 3.90,
+        "away_win": 4.00
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_18": {
+      "id": 12362,
+      "sport": "Tennis",
+      "league": "WTA",
+      "teams": {
+        "home": "Player G",
+        "away": "Player H"
+      },
+      "start_time": "2024-08-01T15:00:00Z",
+      "odds": {
+        "home_win": 1.70,
+        "draw": 3.80,
+        "away_win": 3.60
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    },
+    "event_19": {
+      "id": 12363,
+      "sport": "Volleyball",
+      "league": "Champions League",
+      "teams": {
+        "home": "Team W",
+        "away": "Team X"
+      },
+      "start_time": "2024-08-02T20:00:00Z",
+      "odds": {
+        "home_win": 1.75,
+        "draw": 3.60,
+        "away_win": 4.10
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_20": {
+      "id": 12364,
+      "sport": "Formula1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver G",
+        "away": "Driver H"
+      },
+      "start_time": "2024-08-03T21:00:00Z",
+      "odds": {
+        "home_win": 1.90,
+        "draw": 3.50,
+        "away_win": 3.80
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_21": {
+      "id": 12365,
+      "sport": "Soccer",
+      "league": "Premier League",
+      "teams": {
+        "home": "Team Y",
+        "away": "Team Z"
+      },
+      "start_time": "2024-08-04T22:00:00Z",
+      "odds": {
+        "home_win": 1.70,
+        "draw": 3.80,
+        "away_win": 4.10
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    },
+    "event_22": {
+      "id": 12366,
+      "sport": "Basketball",
+      "league": "NBA",
+      "teams": {
+        "home": "Team AA",
+        "away": "Team BB"
+      },
+      "start_time": "2024-08-05T20:00:00Z",
+      "odds": {
+        "home_win": 1.85,
+        "draw": 3.60,
+        "away_win": 4.00
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_23": {
+      "id": 12367,
+      "sport": "Tennis",
+      "league": "ATP",
+      "teams": {
+        "home": "Player I",
+        "away": "Player J"
+      },
+      "start_time": "2024-08-06T21:00:00Z",
+      "odds": {
+        "home_win": 1.80,
+        "draw": 3.50,
+        "away_win": 3.90
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_24": {
+      "id": 12368,
+      "sport": "Volleyball",
+      "league": "Superliga",
+      "teams": {
+        "home": "Team CC",
+        "away": "Team DD"
+      },
+      "start_time": "2024-08-07T22:00:00Z",
+      "odds": {
+        "home_win": 1.75,
+        "draw": 3.80,
+        "away_win": 3.90
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    },
+    "event_25": {
+      "id": 12369,
+      "sport": "Formula1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver I",
+        "away": "Driver J"
+      },
+      "start_time": "2024-08-08T23:00:00Z",
+      "odds": {
+        "home_win": 1.85,
+        "draw": 3.60,
+        "away_win": 4.00
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_26": {
+      "id": 12370,
+      "sport": "Soccer",
+      "league": "La Liga",
+      "teams": {
+        "home": "Team EE",
+        "away": "Team FF"
+      },
+      "start_time": "2024-08-09T17:00:00Z",
+      "odds": {
+        "home_win": 1.75,
+        "draw": 3.40,
+        "away_win": 4.20
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_27": {
+      "id": 12371,
+      "sport": "Basketball",
+      "league": "EuroLeague",
+      "teams": {
+        "home": "Team GG",
+        "away": "Team HH"
+      },
+      "start_time": "2024-08-10T19:00:00Z",
+      "odds": {
+        "home_win": 1.90,
+        "draw": 3.60,
+        "away_win": 3.80
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    },
+    "event_28": {
+      "id": 12372,
+      "sport": "Tennis",
+      "league": "WTA",
+      "teams": {
+        "home": "Player K",
+        "away": "Player L"
+      },
+      "start_time": "2024-08-11T15:00:00Z",
+      "odds": {
+        "home_win": 1.85,
+        "draw": 3.40,
+        "away_win": 3.90
+      },
+      "bookmakers": [
+        "Bet365",
+        "William Hill"
+      ]
+    },
+    "event_29": {
+      "id": 12373,
+      "sport": "Volleyball",
+      "league": "Champions League",
+      "teams": {
+        "home": "Team II",
+        "away": "Team JJ"
+      },
+      "start_time": "2024-08-12T20:00:00Z",
+      "odds": {
+        "home_win": 1.70,
+        "draw": 3.80,
+        "away_win": 4.10
+      },
+      "bookmakers": [
+        "Betfair",
+        "Pinnacle"
+      ]
+    },
+    "event_30": {
+      "id": 12374,
+      "sport": "Formula1",
+      "league": "Grand Prix",
+      "teams": {
+        "home": "Driver K",
+        "away": "Driver L"
+      },
+      "start_time": "2024-08-13T21:00:00Z",
+      "odds": {
+        "home_win": 1.75,
+        "draw": 3.60,
+        "away_win": 4.10
+      },
+      "bookmakers": [
+        "Unibet",
+        "Betway"
+      ]
+    }
+  }
